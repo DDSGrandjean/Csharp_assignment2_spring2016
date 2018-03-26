@@ -8,9 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment2DataTypesApp
+namespace Assignment2
 {
-    class Program
+    class Main
     {
         static void Main(string[] args)
         {
